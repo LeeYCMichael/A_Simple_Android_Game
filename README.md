@@ -6,7 +6,7 @@ This android application is just a simple game that involves moving the characte
 
 I have to say there are a few minor bugs and this game is rather basic, but this project was simply done with the purpose of familiarising myself with the java language and the use of Android Studio. 
 
-I would be starting my second year of studies at NTU(Computer Science) and would be learning about OOP using Java and Softeare engineering in my first semeseter. Hence, I chose to start this project to give myself a headstart and to study the Java langauge(both syntax wise and how to code in an OOP fashion). 
+I would be starting my second year of studies at NTU(Computer Science) and would be learning about OOP and Software engineering in my first semeseter. Hence, I chose to start this project to give myself a headstart and to study the Java langauge(both syntax wise and how to code in an OOP fashion). 
 
 This game was based on an anime Konosuba. If it isnt clear enough from the quality of the game, I do not own any image rights and do not intend to profit in anyway from it. I simply chose Konosuba to realise my application as it made my time spent making this application a lot more fun. 
 
