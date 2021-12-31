@@ -4,7 +4,7 @@ Just a simple game
 
 This android application is just a simple game that involves moving the character to the other side of the screen without touching enemy characters.
 
-I have to say there are a few minor bugs and that this application is really quite basic, but this project was simply done with the purpose of familiarising myself with the java language and the use of Android Studio. 
+I have to say there are a few minor bugs and this game is rather basic, but this project was simply done with the purpose of familiarising myself with the java language and the use of Android Studio. 
 
 I would be starting my second year of studies at NTU(Computer Science) and would be learning about OOP using Java and Softeare engineering in my first semeseter. Hence, I chose to start this project to give myself a headstart and to study the Java langauge(both syntax wise and how to code in an OOP fashion). 
 
